@@ -6,12 +6,14 @@ This project aims to provide a comprehensive platform for job management. It inc
 - User management
 - Job posting
 - Application tracking
-
+- Apply job in OTP Through
+- give rating and review
+  
 ## Modules
 - Admin
 - Business Owner
 - Job Seeker
-
+ 
 ## Technologies Used
 - PHP
 - MySQL
@@ -21,4 +23,4 @@ This project aims to provide a comprehensive platform for job management. It inc
 ## Getting Started
 - Clone the repository using `git clone <repo_url>`
 - Install dependencies
-- Configure your database settings in `config/database.php`
+- Configure your database settings in `config/database.php
